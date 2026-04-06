@@ -57,6 +57,9 @@
 		1F274AF62F83A206002E9162 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		1F274AF82F83A206002E9162 /* UserNotificationsUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotificationsUI.framework; path = System/Library/Frameworks/UserNotificationsUI.framework; sourceTree = SDKROOT; };
 		1F274B222F83AB1A002E9162 /* PushNotificationUIExtn.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = PushNotificationUIExtn.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F274B612F83EAAB002E9162 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		1F274B622F83EAAB002E9162 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1F274B632F83EAC3002E9162 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -132,6 +135,9 @@
 		1F274AB42F838D31002E9162 = {
 			isa = PBXGroup;
 			children = (
+				1F274B632F83EAC3002E9162 /* .gitignore */,
+				1F274B612F83EAAB002E9162 /* LICENSE */,
+				1F274B622F83EAAB002E9162 /* README.md */,
 				1F274ABF2F838D31002E9162 /* PushNotificationDemo */,
 				1F274ACD2F838D33002E9162 /* PushNotificationDemoTests */,
 				1F274AD72F838D33002E9162 /* PushNotificationDemoUITests */,
